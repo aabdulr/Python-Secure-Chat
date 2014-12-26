@@ -8,6 +8,7 @@
 import socket
 import SecureUtils as secure_utils
 from SecureThreadManager import ThreadManager
+import sys
 
 HOST_NAME = "localhost"
 PORT_NUMBER = 1234
