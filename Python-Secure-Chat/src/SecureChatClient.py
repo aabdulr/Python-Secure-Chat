@@ -114,7 +114,7 @@ def exchange_keys_with_server(the_connection):
         '''
         Prompts as to whether to send keys or not
         If keys are not sent, program terminates because it is
-        impossible to encrypt and decrypt messages
+        impossible to encrypt and decrypt messages 
         '''
         try:
             
